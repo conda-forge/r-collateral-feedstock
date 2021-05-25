@@ -3,7 +3,7 @@ About r-collateral
 
 Home: https://rensa.co/collateral/index.html, https://github.com/rensa/collateral
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-collateral-feedstock/blob/master/LICENSE.txt)
 
@@ -116,11 +116,5 @@ Feedstock Maintainers
 =====================
 
 * [@apcamargo](https://github.com/apcamargo/)
-* [@bgruening](https://github.com/bgruening/)
-* [@cbrueffer](https://github.com/cbrueffer/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@daler](https://github.com/daler/)
-* [@dbast](https://github.com/dbast/)
-* [@jdblischak](https://github.com/jdblischak/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 
