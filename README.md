@@ -1,11 +1,11 @@
-About r-collateral
-==================
+About r-collateral-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-collateral-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rensa.co/collateral/index.html, https://github.com/rensa/collateral
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-collateral-feedstock/blob/main/LICENSE.txt)
 
 Summary: The purrr package allows you to capture the side effects (errors, warning, messages and other output) of functions using safely() and quietly(). Using collateral, you can quickly see which elements of a list (or list-column) returned results, which threw errors and which returned warnings or other output.
 
